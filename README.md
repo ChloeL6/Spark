@@ -18,9 +18,13 @@
   
 </br>
 
-## Description
+## Visualization
 
+Here is the line graph to show correlation of high, low, close and open price.
 
+<img src="img/coffee_chart.png" alt="line graph" width="750">
+
+<br>
 
 ## Setup/Installation Requirements
 
